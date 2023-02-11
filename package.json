@@ -1,0 +1,22 @@
+{
+  "name": "s3_amazon_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "amazon",
+    "bucket",
+    "s3",
+    "aws_s3"
+  ],
+  "author": "preciousken",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1310.0",
+    "s3_amazon_upload": "^1.0.0"
+  }
+}
